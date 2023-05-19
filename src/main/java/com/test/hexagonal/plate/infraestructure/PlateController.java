@@ -15,6 +15,7 @@ import java.util.stream.Collectors;
 
 
 @RestController
+@CrossOrigin("http://localhost:4200")
 @RequestMapping("plate")
 public class PlateController {
     @Autowired
