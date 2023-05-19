@@ -1,4 +1,4 @@
-package com.test.hexagonal.commons.application.port_in;
+package com.test.hexagonal.commons.domain;
 
 public interface IGenericServicePort<Model> {
     Model create(Model element);

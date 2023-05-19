@@ -1,6 +1,6 @@
 package com.test.hexagonal.plate.domain;
 
-import com.test.hexagonal.commons.application.port_in.IGenericServicePort;
+import com.test.hexagonal.commons.domain.IGenericServicePort;
 
 import java.util.List;
 
